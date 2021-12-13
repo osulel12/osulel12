@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi there 👋, I'm Alexandr
 
-<!--
-**osulel12/osulel12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+## I'm a beginner analyst
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<br />
+<br />
+
+## My skills
+
+![Jupyter skills](https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg "Логотип jupyter")
+![Python skills](https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg "Логотип python")
+![Pycharm skills](https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg "Логотип pycharm")
+
+
+
+
+
