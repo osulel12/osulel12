@@ -10,11 +10,7 @@
 
 ## My skills
 
-![Jupyter skills](https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg =100px "Логотип jupyter" )
-![Python skills](https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg =100px "Логотип python")
-![Pycharm skills](https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg =100px "Логотип pycharm")
-
-
-
-
+[<img align="left" width="25px" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg"  />]
+[<img align="left" width="25px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"  />]
+[<img align="left" width="25px" src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg"  />]
 
