@@ -2,8 +2,6 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 
-### Hi there 👋, I'm Alexandr
-
 ## I'm a beginner analyst
 
 - 🔭 I’m currently working on ...
@@ -16,4 +14,4 @@
 
 <img align="left" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg"/>
 <img align="left" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"/>
-<img align="left" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg"/>
+<img align="left" width="80px" src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg"/>
