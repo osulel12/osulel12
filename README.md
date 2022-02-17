@@ -15,3 +15,7 @@
 <img align="left" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg"/>
 <img align="left" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"/>
 <img align="left" width="80px" src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg"/>
+
+
+<!---Для подробной версии-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
