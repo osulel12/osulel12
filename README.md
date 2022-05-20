@@ -5,12 +5,12 @@
 ## I'm a beginner analyst
 
 #### *Here you can view my work* 👇
--  
+-  [study tasks](https://github.com/osulel12/First_assignments)
 
 <br />
 <br />
 
-## My skills
+### My skills
 
 <img align="left" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg"/>
 <img align="left" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"/>
