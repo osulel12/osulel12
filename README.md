@@ -7,12 +7,12 @@
 #### *Here you can view my work* 👇
 -  [study tasks](https://github.com/osulel12/First_assignments)
 -  [first individual project](https://github.com/osulel12/First_assignments/tree/main/First%20project)
--  [final project]()
+-  [final project](https://github.com/osulel12/Last-project)
 
 <br />
 <br />
 
-### My skills
+### Some of my skills
 
 <img align="left" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg"/>
 <img align="left" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"/>
