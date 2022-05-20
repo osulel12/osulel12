@@ -4,8 +4,7 @@
 
 ## I'm a beginner analyst
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+### Here you can view my work
 
 <br />
 <br />
