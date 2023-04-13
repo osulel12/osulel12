@@ -2,8 +2,6 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 
-## I'm a beginner analyst
-
 #### *Here you can view my work* 👇
 -  [study tasks](https://github.com/osulel12/First_assignments)
 -  [first individual project](https://github.com/osulel12/First_assignments/tree/main/First%20project)
