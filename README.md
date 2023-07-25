@@ -17,6 +17,7 @@
 <img align="left" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"/>
 <img align="left" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/numpy/numpy-original.svg"/>
 <img align="left" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/pandas/pandas-original-wordmark.svg"/>
+<img align="left" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg"/>
 
 
 
