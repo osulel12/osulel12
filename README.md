@@ -3,12 +3,6 @@
 
 
 #### *Here you can view my work* 👇
--  [first individual project](https://github.com/osulel12/First_assignments/tree/main/First%20project)
--  [final project](https://github.com/osulel12/Last-project)
--  [India_parser](https://github.com/osulel12/India_parser)
--  [Update datamart](https://github.com/osulel12/update_datamart_world_trade)
--  [Outer_tg_bot](https://github.com/osulel12/User_TG_bot)
--  [Inner_tg_bot](https://github.com/osulel12/inner_tg_bot)
 -  [Airflow_dags](https://github.com/osulel12/airflow_proj)
 
 <br />
