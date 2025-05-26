@@ -5,6 +5,8 @@
 #### *Here you can view my work* 👇
 -  [Airflow_dags](https://github.com/osulel12/airflow_proj): представлены примеры парсеров и ETL/ELT процессов
 -  [dbt_datamart](https://github.com/osulel12/dbt_project): примеры dbt моделей
+-  [Работа с selenium](https://github.com/osulel12/itc_parser)
+-  [ТГ бот](https://github.com/osulel12/etl_file_bot)
 
 <br />
 <br />
